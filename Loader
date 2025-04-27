@@ -2,6 +2,7 @@ local placeId = game.PlaceId
  
 local scripts = {
     [122678592501168] = "https://raw.githubusercontent.com/missyoubutdontcomeback/BeaksObf/main/loader.lua",
+    [104715542330896] = "https://raw.githubusercontent.com/missyoubutdontcomeback/blockspin/main/main",
 }
  
 local url = scripts[placeId]
